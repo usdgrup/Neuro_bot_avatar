@@ -1,4 +1,4 @@
-from src.utils import say_hello
+from src.utils import greet
 
 if __name__ == "__main__":
-    say_hello("VS Code и нейро-бот")
+    print(greet("Дмитрий"))
