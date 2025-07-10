@@ -13,3 +13,4 @@
 - `notebooks/` — эксперименты в Jupyter
 - `src/` — Python-модули (utils, логика обработки)
 - `main.py` — точка входа, объединение логики
+- `requrements.txt` - библиотека
